@@ -5,7 +5,7 @@ Run Locally
 
 Clone the project
 
-  git clone https://github.com/AnusreeSudheesh/chat-app
+  git clone https://github.com/Anusreesudheesh/chat-app.git
 
 Go to the project directory
 
